@@ -1,0 +1,14 @@
+{
+  "name": "fastify-eventbus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "keywords": [],
+  "dependencies": {
+    "fastify-plugin": "^2.0.0"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "types": "./index.d.ts"
+}
