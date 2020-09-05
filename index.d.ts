@@ -4,3 +4,6 @@ declare module "fastify" {
     eventbus: EventEmitter;
   }
 }
+
+declare const fastifyEventBus: FastifyPlugin;
+export default fastifyEventBus;
